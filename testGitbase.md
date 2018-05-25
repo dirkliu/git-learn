@@ -1,1 +1,1 @@
-git base merge master
+git rebase merge master
