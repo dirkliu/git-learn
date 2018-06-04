@@ -3,4 +3,5 @@ learn git for
 git add commit push
 git reset HEAD
 git stash
-git rebase
+git rebase 
+git gc 垃圾清理
